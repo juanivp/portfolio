@@ -19,7 +19,7 @@
   },
   "about": {
     "title": "Sobre mi",
-    "image": "/../public/perfil.jpg",
+    "image": "/perfil.jpg",
     "primary": "Más que código, soluciones. Mi enfoque en el desarrollo web es pragmático: utilizo la tecnología para resolver problemas de negocio. Me especializo en el ecosistema de JavaScript (React, Next.js), creando interfaces limpias y sistemas eficientes.",
     "secondary": "Cuando no estoy compilando código, probablemente me encuentres entrenando, cocinando algo para mi familia o andando en bicicleta."
   },
