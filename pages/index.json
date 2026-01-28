@@ -1,16 +1,16 @@
 {
   "navigation": [
 		{
-			"title": "Sobre mi",
-			"url": "#About"
+			"title": "Perfil",
+			"url": "About"
 		},
 		{
-			"title": "Projectos",
-			"url": "http://www.example.com/portfolio"
+			"title": "Proyectos",
+			"url": "Proyectos"
 		},
 		{
 			"title": "Contacto",
-			"url": "https://wa.me/5491133540919"
+			"url": "Contacto"
 		}
 	],
   "hero": {
@@ -19,12 +19,12 @@
   },
   "about": {
     "title": "Sobre mi",
-    "image": "/placeholder.png",
+    "image": "/../public/perfil.jpg",
     "primary": "Más que código, soluciones. Mi enfoque en el desarrollo web es pragmático: utilizo la tecnología para resolver problemas de negocio. Me especializo en el ecosistema de JavaScript (React, Next.js), creando interfaces limpias y sistemas eficientes.",
     "secondary": "Cuando no estoy compilando código, probablemente me encuentres entrenando, cocinando algo para mi familia o andando en bicicleta."
   },
   "projects": {
-    "title": "Projectos",
+    "title": "Proyectos",
     "projects": [
       {
         "title": "Devsrepo",
@@ -45,11 +45,10 @@
   "contact": {
     "title": "Contacto",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "your-form-id"
+    "formId": "https://formspree.io/f/mlgbklja"
   },
   "footer": {
-		"linkedin": "",
-		"twitter": "",
-		"github": ""
+		"linkedin": "https://www.linkedin.com/in/juan-vicente-prieto-858867241/",
+		"github": "https://github.com/juanivp"
 	}
 }

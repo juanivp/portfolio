@@ -23,14 +23,14 @@ function ContactForm() {
       >
         <div className="mb-4">
           <label className="block text-gray-700 font-bold mb-2" htmlFor="name">
-            Name
+            Nombre
           </label>
           <input
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
             id="name"
             type="text"
             name="name"
-            placeholder="Enter your name"
+            placeholder="Ingrese su nombre"
             value={name}
             onChange={(event) => setName(event.target.value)}
           />
@@ -44,21 +44,21 @@ function ContactForm() {
             id="email"
             type="email"
             name="email"
-            placeholder="Enter your email address"
+            placeholder="Ingrese su mail"
             value={email}
             onChange={(event) => setEmail(event.target.value)}
           />
         </div>
         <div className="mb-4">
           <label className="block text-gray-700 font-bold mb-2" htmlFor="message">
-            Message
+            Mensaje
           </label>
           <textarea
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
             id="message"
             name="message"
             rows={5}
-            placeholder="Enter your message"
+            placeholder="Ingrese su mensaje aquí"
             value={message}
             onChange={(event) => setMessage(event.target.value)}
           />
@@ -75,8 +75,8 @@ function ContactForm() {
             className="text-lg font-bold p-0.5 mt-6 w-44 bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
           >
             <div className="bg-white">
-              <span className="block p-2 font-semibold bg-white font-bold bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 bg-clip-text text-transparent">
-                Send
+              <span className="block p-2 bg-white font-bold bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 bg-clip-text text-transparent">
+                Enviar
               </span>
           </div>
         </button>
