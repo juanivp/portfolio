@@ -1,6 +1,8 @@
 import React from "react";
 import config from "../index.json";
 import Image from "next/image";
+//import aboutImage from "/../public/perfil.jpg";
+
 
 const About = () => {
   const about = config.about;
