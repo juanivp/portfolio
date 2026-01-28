@@ -1,7 +1,7 @@
 import React from "react";
 import config from "../index.json";
 import Image from "next/image";
-//import aboutImage from "/../public/perfil.jpg";
+import aboutImage from "/../public/perfil.jpg";
 
 
 const About = () => {
@@ -12,7 +12,7 @@ const About = () => {
       <div className="mt-16 flex flex-col md:flex-row align-center items-center">
         <div className="w-1/2 flex justify-center content-center">
           <Image 
-            src={about.image} 
+            src={aboutImage} 
             alt="about" 
             className="shadow-lg" 
             width={300} 
