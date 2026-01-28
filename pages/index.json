@@ -38,7 +38,7 @@
 				"description": "De emprendimiento a marca digital. Creé una plataforma web (SPA) rápida que profesionaliza la oferta de servicios de meditación. Una solución que combina diseño de identidad con una arquitectura técnica escalable y fácil de administrar.",
 				"url": "https://www.somosmindfulness.com.ar/",
         "github": "https://github.com/juanivp/portfolio-somos-mindfulness",
-				"image": "/../public/somosmindfulness.png"
+				"image": "public/somosmindfulness.png"
 			}
     ]
   },
