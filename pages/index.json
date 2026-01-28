@@ -31,14 +31,14 @@
         "description": "Rebranding y desarrollo web para una Software Factory de Escocia. Diseñé una identidad 'Tech-Corporativo' inspirada en Microsoft, logrando una UI modular y limpia que eleva su perfil para competir en el mercado europeo.",
         "url": "http://www.devsrepo.co.uk/",
         "github": "https://github.com/juanivp/portfolio-devsrepo",
-        "image": "/../public/devsrepo.png"
+        "image": "/devsrepo.png"
       },
       {
 				"title": "Somos Mindfulness",
 				"description": "De emprendimiento a marca digital. Creé una plataforma web (SPA) rápida que profesionaliza la oferta de servicios de meditación. Una solución que combina diseño de identidad con una arquitectura técnica escalable y fácil de administrar.",
 				"url": "https://www.somosmindfulness.com.ar/",
         "github": "https://github.com/juanivp/portfolio-somos-mindfulness",
-				"image": "public/somosmindfulness.png"
+				"image": "/somosmindfulness.png"
 			}
     ]
   },
